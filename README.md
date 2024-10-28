@@ -62,8 +62,8 @@
 <h2 align="left">My Projects</h2>
 
 - **[Online News Article Management System](https://github.com/indrasankhag/Online-News-Article-Management-System)**: A web application for managing news articles. Technologies used: HTML, CSS, JavaScript, PHP, mySql.
-- **[Project Title 2](link-to-your-project)**: Brief description of project 2. Technologies used: (technologies).
-- **[Project Title 3](link-to-your-project)**: Brief description of project 3. Technologies used: (technologies).
+- **[iFriendContactOrganizer](https://github.com/indrasankhag/iFriendContactOrganizer)**: The project is a Contact Management System designed to organize and manage personal contacts efficiently. Technologies used: Java,Object-Oriented Programming,Data Structures.
+- **[iCALC_Number_Converter_System](https://github.com/indrasankhag/iCALC_Number_Converter_System)**: The project is an iCALC Number Converter System, designed to convert numbers between various numeral systems. Technologies used: Java
 
 
 ---
