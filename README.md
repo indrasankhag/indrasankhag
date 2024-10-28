@@ -61,7 +61,7 @@
 
 <h2 align="left">My Projects</h2>
 
-- **[Online News Article Management System](link-to-your-project)**: A web application for managing news articles. Technologies used: HTML, CSS, JavaScript.
+- **[Online News Article Management System](https://github.com/indrasankhag/Online-News-Article-Management-System)**: A web application for managing news articles. Technologies used: HTML, CSS, JavaScript, PHP, mySql.
 - **[Project Title 2](link-to-your-project)**: Brief description of project 2. Technologies used: (technologies).
 - **[Project Title 3](link-to-your-project)**: Brief description of project 3. Technologies used: (technologies).
 
