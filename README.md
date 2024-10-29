@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **gayashanindrasankha@gmail.com**
 
-- 📄 Know more about me on [Linkedin](https://www.linkedin.com/in/gayashan-indrasankha/)
+- 📄 Know more about me on  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gayashan-indrasankha/) 
 
 </td>
 <td width="50%" align="center">
