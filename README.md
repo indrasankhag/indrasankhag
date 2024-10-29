@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif" width="30px">, I'm Gayashan Indrasankha</h1>
 <p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Driven+by+innovation+and+excellence;Bridging+technology+and+creativity;Passionate+about+building+scalable+solutions;Championing+collaborative+problem-solving;Committed+to+lifelong+learning+and+growth" alt="Typing SVG" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=indrasankhag&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=indrasankhag&label=Profile%20views&color=0e75b6&style=flat" alt="indrasankhagViewCount" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -124,7 +124,8 @@
   <a href="https://x.com/indrasankhaG" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter logo" /></a> <img width="12" />
   <a href="https://web.facebook.com/gayashan.indrasanka.3" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook logo" /></a><img width="12" />
   <a href="https://www.instagram.com/_.gaiya.___/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram logo" /></a><img width="12" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="http://discordapp.com/users/1188408673668698214"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="http://wa.me/+94753800728"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Icon" width="40" height="40"></a>
 </p>
 </p>
 
