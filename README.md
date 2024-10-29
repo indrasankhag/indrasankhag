@@ -1,8 +1,6 @@
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif" width="30px">, I'm Gayashan Indrasankha</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif" width="30px">, I'm Gayashan Indrasankha.</h1>
 <p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Driven+by+innovation+and+excellence;Bridging+technology+and+creativity;Passionate+about+building+scalable+solutions;Championing+collaborative+problem-solving;Committed+to+lifelong+learning+and+growth" alt="Typing SVG" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=indrasankhag&label=Profile%20views&color=0e75b6&style=flat" alt="indrasankhagViewCount" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -99,9 +97,16 @@
 
 
 ---
+<div align="center">
 
+
+
+</div>
 
 <div align="center">
+
+  ![View](https://img.shields.io/badge/Profile_View-Count-07F700)
+  
   <img src="https://profile-counter.glitch.me/indrasankhag/count.svg?"  />
 </div>
 
